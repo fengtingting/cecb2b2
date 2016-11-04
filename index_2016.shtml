@@ -1,0 +1,1341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta name="keywords" content="中发智造,中国智造,生态平台,生态服务,智能智造,解决方案,科技成果,SMT,PCB,专利,知识产权,生产加工,供应链" />
+    <meta name="description" content="中发智造,中国智造,打造中国智能制造生态平台,服务电子产业链: 解决方案,科技成果,SMT,PCB,专利,知识产权,生产加工,供应链" />
+    <link rel="shortcut icon" href="http://images.cecb2b.com/images/common-service/zfa.ico" >
+    <link rel="stylesheet" type="text/css" href="http://images.cecb2b.com/css/common-service/reset.css" />
+    <link rel="stylesheet" type="text/css" href="http://images.cecb2b.com/css/common-service/index.css" />
+    <link rel="stylesheet" type="text/css" href="http://images.cecb2b.com/css/common-service/header_foot.css">
+    <link rel="stylesheet" type="text/css" href="http://at.alicdn.com/t/font_1471621056_7883842.css">
+    <script src="http://images.cecb2b.com/js/common_new/jquery-1.8/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://images.cecb2b.com/js/common_new/common_top_2014.js"></script>
+    <script type="text/javascript" src='http://images.cecb2b.com/js/common-service/commonstt.js'></script>
+    <script src='http://images.cecb2b.com/js/common-service/jquery.SuperSlide.2.1.1.js'></script>
+    <script charset="utf-8" src="http://wpa.b.qq.com/cgi/wpa.php"></script>
+    <title>中发智造,中国智造,中国智能制造生态平台</title>
+    <style type="text/css">
+    </style>
+    <body>
+        <!-- ie7error提示 -->
+        <!--[if lte IE 7]>
+        <div id="ie7-warning">您正在使用 Internet Explorer 7，在本页面的显示效果可能有差异。建议您升级到 <a href="http://www.microsoft.com/china/windows/internet-explorer/" target="_blank">Internet Explorer 9</a> 或以下浏览器： <a href="http://www.mozillaonline.com/">Firefox</a> / <a href="http://www.google.com/chrome/?hl=zh-CN">Chrome</a> / <a href="http://www.apple.com.cn/safari/">Safari</a> / <a href="http://www.operachina.com/">Opera</a>
+        </div>
+        <script type="text/javascript">
+            function position_fixed(el, eltop, elleft){ 
+            if(!window.XMLHttpRequest) 
+                window.onscroll = function(){ 
+                el.style.top = (document.documentElement.scrollTop + eltop)+"px"; 
+                el.style.left = (document.documentElement.scrollLeft + elleft)+"px"; 
+                } 
+                else el.style.position = "fixed"; 
+                }
+                position_fixed(document.getElementById("ie7-warning"),0, 0);
+        </script>
+        <![endif]-->
+        <!-- 放假通知 -->
+        <!-- <div id="topNotice">
+            <a id="topNotice_close" title="关闭"></a>
+            <p id="topNotice_content" />尊敬的用户，春节放假期间（2月3日-2月17日），网站暂停人工咨询服务，不便之处敬请谅解！网站全体员工恭祝各位新年快乐，财源广进！</p>
+        </div> -->
+        <!-- 顶部广告 -->
+        <!-- <div id="J_topBanner" class="top-banner1" style="display: block;">
+            <a class="close">x</a>
+            <a href="/common/asinfostat.aspx?url=http://www.hqbuy.com/news/1340.html?hmsr=hqewg1002b&amp;code=G01001&amp;asinfoid=8313">
+                <img src="http://dfsimg1.hqewimg.com/group1/M00/00/10/wKhk7VetJLGAePi1AABA-DOHsX4038.jpg" class="img-small" height="40" width="1190">
+            </a>
+        </div> -->        
+        <div id="J_topBanner" class="top-banner1" style="display: block; ">
+            <div onclick="event.target == event.currentTarget && window.open('http://www.cecb2b.com/guide')" class="top-wrap" style="margin: 0 auto;width: 1200px;height: 90px; position: relative;">
+                <a class="close">x</a>
+                <div class="top-wrap-l" style="float: left;"></div>
+                <div class="top-wrap-r" style="float:right;width: 230px;height: 30px;margin-top:49px;margin-right: 153px;overflow:hidden;" >
+                    <div class="" id="marqueebox">
+                    <ul>
+                        <li><a href="http://www.cecb2b.com/solution/index.php?r=project-info%2Ftech&id=5534333" target="_blank">测量过程流体的压力变送器</a></li>
+                        <li><a href="http://www.cecb2b.com/solution/index.php?r=project-info%2Ftech&id=5534334" target="_blank">移动设备电池隔离保护专利</a></li>
+                        <li><a href="http://www.cecb2b.com/solution/index.php?r=project-info%2Ftech&id=5534314" target="_blank">纳米增强无铅焊料制备方法</a></li>
+                        <li><a href="http://www.cecb2b.com/solution/index.php?r=project-info%2Ftech&id=5534306" target="_blank">电沉积制备三维硅光子晶体</a></li>
+                        <li><a href="http://www.cecb2b.com/solution/index.php?r=project-info%2Ftech&id=5534294" target="_blank">三开关单级升降压型逆变器</a></li>
+                    </ul>
+                    </div>
+                </div> 
+            </div>
+        </div>      
+        <div id="top">
+            <div class="tops">
+                <div class="leftc">
+                    <div class="mobile">
+                        <i class="icon_m"></i>
+                        <a href="http://www.zfa.cn/apps/index.shtml" target="_blank">移动版</a>
+                        <i class="line"></i>
+                    </div>
+                    <div class="re_old">欢迎来到中发智造！</div>
+                </div>
+                <div class="rightc">
+                    <div class="sitemap"><a href="http://www.cecb2b.com/sitemap.shtml" target="_blank">网站地图</a></div>
+                    <div class="downlist1">
+                        <a href="http://meng.cecb2b.com/" class="s_cs" target="_blank">客服中心<i></i></a>
+                        <ul style="">
+                            <li><a href="http://www.cecb2b.com/help/login.shtml" target="_blank">新手上路</a></li>
+                            <li><a href="http://www.cecb2b.com/help/buy_process.shtml" target="_blank">买家帮助</a></li>
+                            <li><a href="http://www.cecb2b.com/help/supply_process.shtml" target="_blank">卖家帮助</a></li>
+                            <li><a href="http://www.cecb2b.com/help/about_contact.shtml" target="_blank">联系我们</a></li>
+                        </ul>
+                    </div>
+                    <!-- 有内容链接情况下网站导航 -->
+                    <div class="downlist1" id="selluser">
+                        <a href="http://www.cecb2b.com/help/member_service.shtml" class="s_cs" target="_blank">会员服务<i></i></a>
+                        <ul style="">
+                            <!-- <li ><a href="http://www.cecb2b.com/help/member_service.shtml" target="_blank" rel="nofollow">会员服务</a></li> -->
+                            <li><a href="http://www.cecb2b.com/help/ad_service.shtml" target="_blank" rel="nofollow">广告服务</a></li>
+                            <li><a href="http://www.cecb2b.com/zt/shitirenzheng.shtml" target="_blank" rel="nofollow">增值服务</a></li>
+                            <li><a href="http://www.cecb2b.com/order" target="_blank" rel="nofollow">易配</a></li>
+                        </ul>
+                    </div>
+                    <div class="mes" id="nologin">
+                        <a href="http://www.cecb2b.com/member/index.do" target="_blank" rel="nofollow">登录</a>&nbsp;&nbsp;<a href="http://www.cecb2b.com/register/registe.jsp" target="_blank" rel="nofollow">免费注册</a>&nbsp;
+                    </div>
+                    <div class="shopCart">
+                        <a href="http://www.cecb2b.com/mall/cart.do" target="_blank" rel="nofollow">
+                    加入购物车
+                    <span></span>
+                    <i id="shopcartnums">0</i>
+                </a>
+                    </div>
+                </div>
+            </div>
+        </div>        
+        <div class="header">
+            <div class="container">
+                <div class="logo-group">
+                    <h1><a class="logo" href="" target="_self"><img src="http://images.cecb2b.com/images/common-service/zfzz.gif" alt="中发智造"></a></h1></div>
+                <div class="search" id="search">
+                    <ul class="search-type">
+                        <li id="search_product" class="first active tab-t">产品</li>
+                        <li class="tab-t">资讯</li>
+                    </ul>
+                    <div class="tab-content active">
+                            <div id="form1" class="tab-c active">
+                                <form  class="form-search form-search1" action="http://www.cecb2b.com/vsearch/qic" method="get" >
+                                    <div class="input-search-group">
+                                       <div class='downlist'>
+                                            <i></i><span class="selected">IC</span>
+                                            <ul class="downlist-ul select">
+                                                <li id="search_ic" url="http://www.cecb2b.com/vsearch/qic">IC</li>
+                                                <li id="search_nic"  url="http://www.cecb2b.com/vsearch/qnic">非IC</li>
+                                            </ul>
+                                        </div>
+                                        <input class="input-search SearchFocus"  name="q"  placeholder="输入产品型号/名称" >
+                                    </div>
+                                    <button type="submit" class="btn-search" style=""></button>
+                                </form>
+                            </div>
+                            <div id="form2" class="tab-c">
+                                <form class="form-search form-search1" action="http://app.news.cecb2b.com/" method="get" >
+                                    <div class="input-search-group">
+                                        <input class="input-search SearchFocus input-search1" name="wd"  placeholder="请输入搜索内容">
+                                        <input name="app" type="hidden" value="search"/>
+                                        <input name="controller" type="hidden" value="index"/>
+                                        <input name="action" type="hidden" value="search"/>
+                                        <input name="type" type="hidden" value="all"/>
+                                    </div>
+                                    <button type="submit" class="btn-search" style=""></button>
+                                </form>
+                            </div>
+                        </div>
+                        <script>
+                            $('li[id^=search_]').click(function(){
+                                var id = $(this).attr('id').split('_')[1];                              
+                                if  ('product'===id || 'ic' ===id) {
+                                    var url = $('#search_ic').attr('url');
+                                    $('#form1 > form').attr('action', url);
+                                } else if ('nic' == id) {
+                                    var url = $('#search_nic').attr('url');
+                                    $('#form1 > form').attr('action', url);
+                                } 
+                                
+                               	$('.downlist-ul').hide();
+                               	return false;
+                            });
+                            
+                            $(".selected, downlist-ul > li ").on("mousemove", function(){
+                            	$('.downlist-ul').show();
+                            	return false;
+                            });
+                        </script>
+                </div>
+                <div class="public-code">
+                    <img width="86px" height="100px" src="http://images.cecb2b.com/images/common-service/gzh-code.gif" alt="手机淘宝">
+                    <a class="close">x</a>
+                    
+                </div>
+                <!-- <div class="tj-logo">
+                    <a target="_blank" href="http://tj.cecb2b.com/"><img src="./images/zfzz.gif"></a>
+                </div> -->
+            </div>
+        </div>
+        <!-- 头部nav -->
+        <div class="main-nav">
+            <div class="container">
+                <div class="category">
+                    <h2 class="title">产业链服务</h2>
+                    <div class="category-menu" id="J_categoryTab">
+                        <div class="category-title tab-title">
+                            <div class="tab-t">
+                                <h3>供应链采购</h3>
+                                <p><a target="_blank" href="http://s.cecb2b.com/vsearch/qnic.do?q=%E6%97%A0%E7%BA%BF%E6%A8%A1%E7%BB%84&x=33&y=22&o=20&t=0">无线模组</a><a target="_blank" href="http://s.cecb2b.com/vsearch/qnic.do?q=%E5%BC%80%E5%8F%91%E6%9D%BF&x=63&y=27&o=20&t=0">开发板</a><a target="_blank" href="http://s.cecb2b.com/vsearch/qnic.do?q=%E4%BC%A0%E6%84%9F%E5%99%A8&x=30&y=18&o=20&t=0">传感器</a></p>
+                                <!-- <i class="ico-gt">&gt;</i> -->
+                            </div>
+                            <div class="tab-t tab-t1">
+                                <h3><a href="http://www.cecb2b.com/solution/" target="_blank">解决方案</a></h3>
+                                <!-- <p><a target="_blank" href="http://www.hqew.com/ic/_20001001_______.html">三极管</a><a target="_blank" href="http://www.hqew.com/ic/==5LqM5p6B566h.html">二极管</a><a target="_blank" href="http://www.hqew.com/ic/_20001017_______.html">电力半导体</a></p> -->
+                                <!-- <i class="ico-gt">&gt;</i> -->
+                            </div>
+                            <div class="tab-t">
+                                <h3>样品试制</h3>
+                                <p><a target="_blank" href="http://s.cecb2b.com/vsearch/qnic.do?q=PCB&x=45&y=12&o=20&t=0">PCB</a><a target="_blank" href="http://s.cecb2b.com/vsearch/qnic.do?q=PCBA&x=39&y=19&o=20&t=0">PCBA</a><a target="_blank" href="http://bbs.cecb2b.com/forumdisplay.php?fid=78">样品申请</a></p>
+                                <!-- <i class="ico-gt">&gt;</i> -->
+                            </div>
+                            <div class="tab-t tab-t1">
+                                <h3><a href="http://s.cecb2b.com/vsearch/qnic.do?q=SMT&x=28&y=10&o=20&t=0" target="_blank">生产加工(SMT)</a></h3>
+                                <!-- <p><a target="_blank" href="http://www.hqew.com/ic/_20001001_______.html">SMT</a><a target="_blank" href="http://www.hqew.com/ic/==5LqM5p6B566h.html">组装</a><a target="_blank" href="http://www.hqew.com/ic/_20001017_______.html">集成</a></p> -->
+                                <!-- <i class="ico-gt">&gt;</i> -->
+                            </div>
+                            <div class="tab-t">
+                                <h3 style="color: #739fe0;">测试认证</h3>
+                                <p style="font-size: 14px;color: #739fe0;"><!-- <a target="_blank" href="http://www.hqew.com/ic/_20001001_______.html">测试</a><a target="_blank" href="http://www.hqew.com/ic/==5LqM5p6B566h.html">专利</a><a target="_blank" href="http://www.hqew.com/ic/_20001017_______.html">产品认证</a> -->建设中...</p>
+                                <!-- <i class="ico-gt">&gt;</i> -->
+                            </div>
+                            <!-- <div class="tab-t tab-t-last">
+                                <span>更多服务</span>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <ul class="navitems">
+                    <li class=""><a href="http://news.cecb2b.com/" target="_blank">智造研究院</a></li>
+                    <li><a href="http://pdf.cecb2b.com/" target="_blank">资料库</a></li>
+                    <li><a href="http://bbs.cecb2b.com/" target="_blank">工程师社群</a></li>
+                    <li><a href="http://exhib.cecb2b.com/" target="_blank">会展服务</a></li>
+                    <li><a href="http://patent.cecb2b.com/" target="_blank">知识产权专利</a></li>
+                    <li><a href="http://www.cecb2b.com/solution/index.php?r=tech" target="_blank">科技成果</a></li>
+                    <li><a href="http://www.cecb2b.com/finance/" target="_blank">金融服务</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div class="uislider-service">
+                <div class="uislider" id="uislider">
+                    <ul class="uislider-content" style="width: 400%;">
+                        <li>
+                            <a href="http://www.zfa.cn/" target="_blank"><img style="width: 680px;height: 370px;" src="http://images.cecb2b.com/images/service/banner1.jpg"></a>
+                        </li>
+                        <li>
+                            <a href="http://www.cecb2b.com/solution/index.php?r=tech" target="_blank"><img style="width: 680px;height: 370px;" src="http://images.cecb2b.com/images/service/banner2.jpg"></a>
+                        </li>
+                        <li>
+                            <a href="http://www.cecb2b.com/solution/" target="_blank"><img style="width: 680px;height: 370px;" src="http://images.cecb2b.com/images/service/banner3.jpg"></a>
+                        </li>
+                         <li>
+                            <a href="http://patent.cecb2b.com/" target="_blank"><img style="width: 680px;height: 370px;" src="http://images.cecb2b.com/images/service/banner4.jpg"></a>
+                        </li>
+
+                        <li>
+                            <a href="http://exhib.cecb2b.com/index.php?r=meeting%2Findex&id=23" target="_blank"><img style="width: 680px;height: 370px;" src="http://images.cecb2b.com/images/service/banner_gjhz.jpg"></a>
+                        </li>
+                        <li>
+                            <a href="http://www.cecb2b.com/finance/" target="_blank"><img style="width: 680px;height: 370px;" src="http://images.cecb2b.com/images/service/banner6.jpg"></a>
+                        </li>
+                      
+                    </ul>
+                    <div class="uislider-pager">
+                        <div class="next">&gt;</div>
+                        <div class="prev">&lt;</div>
+                    </div>
+                    <div class="dots-div">
+                       <ol class="dots">
+                            <li class="dot active">1</li>
+                            <li class="dot">2</li>
+                            <li class="dot">3</li>
+                            <li class="dot">4</li>
+                            <li class="dot">5</li>
+                            <li class="dot">6</li>
+                        </ol> 
+                    </div>
+                    
+                    
+                </div>
+                <div class="service-menu">
+                    <div class="signin">
+                        <a href="https://ca.cecb2b.com/login?service=http%3A%2F%2Fwww.cecb2b.com%2Fmember%2Findex.do" target="_blank" class="sn">登录</a>
+                        <a href="http://www.cecb2b.com/register/registe.jsp" target="_blank" class="re">注册</a>
+                    </div>
+                    <div class="service-tab tab" id="J_serviceTab">
+                        <ul class="tab-title">
+                            <li class="tab-t active">我是供方</li>
+                            <li class="tab-t">我是采方</li>
+                            <li class="tab-t last">平台服务</li>
+                        </ul>
+                        <div class="tab-content active">
+                            <ul class="tab-c active">
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/supply_process.shtml">[ 新手必读 ] 注册会员，网罗生意</a></li>
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/ic_sell.shtml">[ 我是供方 ] 发布商品，买家询价</a></li>
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/member_service.shtml">[ 店铺管理 ] 可自定义，专业分类</a></li>
+                                <li><a href="http://www.cecb2b.com/help/search_buy.shtml" target="_blank">[ 搜索求购 ] 求购信息，获取商机</a></li>
+                            </ul>
+                            <ul class="tab-c">
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/buy_process.shtml">[ 新手必读 ] 快速注册，体验服务</a></li>
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/supply_search.shtml">[ 我是买方 ] 搜索选型，海量匹配</a></li>
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/buy_publish.shtml">[ 线上配单 ] 快速求购，在线配单</a></li>
+                                <li><a href="http://www.cecb2b.com/help/buy_price.shtml" target="_blank">[ 在线询价 ] 批量询价，即时报价</a></li>
+                            </ul>
+                            <ul class="tab-c">
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/member_service.shtml">[ 会员服务 ] 体系升级，尊享服务</a></li>
+                                <li><a target="_blank" href="http://www.cecb2b.com/help/ad_service.shtml">[ 广告服务 ] 多种渠道，提升形象</a></li>
+                                <li><a target="_blank" href="http://www.cecb2b.com/zt/chahuo.shtml">[ 贴心服务 ] 货真价实，采购无忧</a></li>
+                                <li><a href="http://www.cecb2b.com/zt/edanbao.shtml" target="_blank">[ 担保服务 ] 平台担保，降低风险</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="sort-menu">
+                        <a class="" target="_blank" href="http://www.cecb2b.com/order/">BOM采购</a><a target="_blank" href="http://www.cecb2b.com/daogou/yqjdg.shtml">电子杂志</a><a target="_blank" href="http://www.cecb2b.com/search/quickBuy.do?type=1">发布求购</a><a target="_blank" href="http://pdf.cecb2b.com/">PDF资料</a>
+                    </div>
+                </div>
+            </div>
+            <!-- 中发智造 . 中国智造 -->
+            <div class="service-sort">
+                <h2 class="sort-title">中发智造 . 中国智造</h2>
+                <ul>
+                    <li>
+                        <a href="http://www.cecb2b.com/solution/" target="_blank"><span class="icon-sort icon-sort1"></span><span>找方案</span></a>
+                        <i class='iconfont icon icon-dakuohao' style=""> </i>
+                    </li>
+                    <li><a href="http://bbs.cecb2b.com/forumdisplay.php?fid=78" target="_blank"><span class="icon-sort icon-sort2"></span><span>找样品</span></a>
+                        <i class='iconfont icon icon-dakuohao' style=""> </i></li>
+                    <li><a href="http://bbs.cecb2b.com/forum-136-1.html" target="_blank"><span class="icon-sort icon-sort3"></span><span>找专家</span></a>
+                        <i class='iconfont icon icon-dakuohao' style=""> </i></li>
+                    <li><a href="http://patent.cecb2b.com/" target="_blank"><span class="icon-sort icon-sort4"></span><span>找专利</span></a>
+                        <i class='iconfont icon icon-dakuohao' style=""> </i></li>
+                    <li><a href="http://www.cecb2b.com/finance/" target="_blank"><span class="icon-sort icon-sort5"></span><span>找资金</span></a>
+                        <i class='iconfont icon icon-dakuohao' style=""> </i></li>
+                    <li><a href="http://exhib.cecb2b.com/" target="_blank"><span class="icon-sort icon-sort6"></span><span>找推广</span></a>
+                        <i class='iconfont icon icon-dakuohao' style=""> </i></li>
+                    <li>
+                        <!-- <a href="" target="_blank"> --><span class="icon-sort icon-sort7"></span><span class="color99">找渠道（建设中）</span>
+                        <!-- </a> -->
+                    </li>
+                </ul>
+            </div>
+            <!-- 1F -->
+            <div class="floor1 floorflag" floornums="1">
+            	<div class="floor-hd ">
+				    <h2>1F&nbsp解决方案</h2>
+				</div>
+				<div class="floor-bd">
+				    <div class="floor-l-icon">
+				        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/solution.png"></div>
+				        <div class="floor-text"><span>方案开发</span><span>方案模板</span><span>技术方案</span><span>服务方案</span></div>
+				        <div class="floor-b">
+				            <p><a class="release-item" href="http://www.cecb2b.com/solution/index.php?r=solution%2Fsubmit&type=solution" target="_blank">发布方案</a>
+				            <a class="post-require" href="http://www.cecb2b.com/solution/index.php?r=solution%2Fsubmit&type=demand" target="_blank">提交需求</a></p>
+				        </div>
+				    </div>
+                	<!--#include virtual="./static/VirtualGoodsSolution.html"-->
+                </div>
+            </div>  
+            <!-- 广告位 -->
+          <!--   <div class="adv-1f">
+                <div class="adv-1f-1">
+                    <a href="" target="_blank"><img width="910px;" height="90px;" src="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+                </div>
+                <div class="adv-1f-2">
+                    <a href="" target="_blank"><img width="279px;" height="90px;" src="http://dfsimg1.hqewimg.com/group1/M00/00/0D/wKhk7leeSIuAdIgZAACyGV0Al_s734.jpg"></a>
+                </div>
+            </div> -->
+            <!-- 2F -->
+            <div class="floor2 floorflag" floornums="2">
+            	<div class="floor-hd ">
+				    <h2>2F&nbsp;科技成果</h2>
+				</div>
+				<div class="floor-bd">
+				    <div class="floor-l-icon">
+				        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/Science.png"></div>
+				        <div class="floor-text"><span>科技成果展示</span><span>科技成果对接</span><span>科技成果交易</span></div>
+				        <div class="floor-b">
+				            <p>
+				            <a class="release-item" target="_blank" href="http://www.cecb2b.com/solution/index.php?r=tech%2Fsubmit&type=tech">发布成果</a>
+				            <a class="post-require"  target="_blank" href="http://www.cecb2b.com/solution/index.php?r=tech%2Fsubmit&type=demand">提交需求</a>
+				            </p>
+				        </div>
+				    </div>
+				 	<!--#include virtual="./static/VirtualGoodsScientific.html"-->
+				 </div>
+            </div>
+            <!-- 广告位 -->
+           <!--  <div class="adv-1f">
+                <div class="adv-1f-1">
+                    <a href="" target="_blank"><img width="910px;" height="90px;" src="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+                </div>
+                <div class="adv-1f-2">
+                    <a href="" target="_blank"><img width="279px;" height="90px;" src="http://dfsimg1.hqewimg.com/group1/M00/00/0D/wKhk7leeSIuAdIgZAACyGV0Al_s734.jpg"></a>
+                </div>
+            </div> -->
+            <!-- 3F -->
+            <div class="floor3 floorflag" floornums="3">
+            	<div class="floor-hd">
+				    <h2>3F&nbsp知识产权专利</h2>
+				 </div>
+				<div class="floor-bd">
+				    <div class="floor-l-icon">
+				        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/property.png"></div>
+				        <div class="floor-text"><span>专利分析估值</span><span>专利查询</span><span>无效专利申请</span><span>专利数据库定制</span></div>
+				        <div class="floor-b">
+				            <p><a class="release-item" target="_blank" href="http://www.cecb2b.com/solution/index.php?r=tech%2Fsubmit&type=tech">发布专利</a>
+				            <a class="post-require" target="_blank" href="http://patent.cecb2b.com/apply/toApply.shtml?id=80004060">提交需求</a></p>
+				        </div>
+				    </div>
+	             	<!--#include virtual="./static/VirtualGoodsPatent.html"-->
+             	</div>
+            </div>
+            <!-- 广告位 -->
+           <!--  <div class="adv-1f">
+                <div class="adv-1f-1">
+                    <a href="" target="_blank"><img width="910px;" height="90px;" src="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+                </div>
+                <div class="adv-1f-2">
+                    <a href="" target="_blank"><img width="279px;" height="90px;" src="http://dfsimg1.hqewimg.com/group1/M00/00/0D/wKhk7leeSIuAdIgZAACyGV0Al_s734.jpg"></a>
+                </div>
+            </div> -->
+            <!-- 4F -->
+            <div class="floor4 floorflag" floornums="4">
+                <div class="floor-hd">
+                    <h2>4F&nbsp样品试制</h2></div>
+                <div class="floor-bd">
+                    <div class="floor-l-icon">
+                        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/s-test.png"></div>
+                        <div class="floor-text"><span>手板定制</span><span>PCB定制</span><span>PCBA</span><span>定制样品</span></div>
+                        <div class="floor-b">
+                            <p><a class="release-item" target="_blank" href="http://www.cecb2b.com/index-post.shtml">服务定制</a><a target="_blank" class="post-require" href="http://www.cecb2b.com/index-post.shtml">我要合作</a></p>
+                        </div>
+                    </div>
+                    <div class="sample-test">
+                        <div class="sample-test-l">
+                            <div class="test-hd">PCB服务</div>
+                            <div class="dl-area">
+                                <dl class="dl-mr">
+                                    <dt><a class="color38" target="_blank" href="http://www.cecb2b.com/shop/_nic_371639_4387564.html">北京中芯伟达科技有限公司</a></dt>
+                                    <dd>•&nbsp&nbsp多层阻抗/盲埋孔板加工订制</dd>
+                                    <dd>•&nbsp&nbspPCB焊接采购器件一条龙服务</dd>
+                                    <dd>•&nbsp&nbsp在线计价\在线下单</dd>
+                                </dl>
+                                <dl>
+                                    <dt><a href="http://www.cecb2b.com/shop/_nic_215158_4103027.html" target="_blank">恒泰创新（北京）电子有限公司</a></dt>
+                                    <dd>•&nbsp&nbsp自主研发PCB在线投单ERP系统</dd>
+                                    <dd>•&nbsp&nbsp质量好,价格低,交货快</dd>
+                                    <dd>•&nbsp&nbsp当天下单,48小时正常出货</dd>
+                                </dl>
+                            </div>
+                            <div class="test-list">                                <!--#include virtual="./static/news_section/294.html"-->
+                            </div>
+                        </div>
+                        <div class="sample-test-r">
+                            <div class="test-hd">手板定制</div>
+                            <div class="dl-area">
+                                <dl class="dl-mr">
+                                    <dt><a href="http://www.bohaomodel.com" target="_blank">伯豪快速成型科技有限公司</a></dt>
+                                    <dd>•&nbsp&nbsp十五年手板制作经验</dd>
+                                    <dd>•&nbsp&nbsp配套齐全工艺完备的供应商体系</dd>
+                                    <dd>•&nbsp&nbsp按时保质:交期和品质保证</dd>
+                                </dl>
+                                <dl>
+                                    <dt><a href="http://www.jinshengwy.com" target="_blank">金胜物源手板模型科技有限公司</a></dt>
+                                    <dd>•&nbsp&nbsp专业敬业的技术人员</dd>
+                                    <dd>•&nbsp&nbsp提供多样模型制作及批量生产</dd>
+                                    <dd>•&nbsp&nbsp做工精致、结构合理、价格公道</dd>
+                                </dl>
+                            </div>
+                            <div class="test-list">
+                                <!--#include virtual="./static/news_section/295.html"-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 广告位 -->
+           <!--  <div class="adv-1f">
+                <div class="adv-1f-1">
+                    <a href="" target="_blank"><img width="910px;" height="90px;" src="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+                </div>
+                <div class="adv-1f-2">
+                    <a href="" target="_blank"><img width="279px;" height="90px;" src="http://dfsimg1.hqewimg.com/group1/M00/00/0D/wKhk7leeSIuAdIgZAACyGV0Al_s734.jpg"></a>
+                </div>
+            </div> -->
+            <!-- 5F -->
+            <div class="floor5 floorflag" floornums="5">
+                <div class="floor-hd">
+                    <h2>5F&nbsp生产加工</h2></div>
+                <div class="floor-bd">
+                    <div class="floor-l-icon">
+                        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/Bywork.png"></div>
+                        <div class="floor-text"><span>SMT</span><span>集成</span><span>组装</span></div>
+                        <div class="floor-b">
+                            <p><a class="release-item" target="_blank" href="http://www.cecb2b.com/index-post.shtml">服务定制</a><a class="post-require" target="_blank" href="http://www.cecb2b.com/index-post.shtml">我要合作</a></p>
+                        </div>
+                    </div>
+                    <div class="sample-test">
+                        <div class="sample-test-l">
+                            <div class="test-hd">SMT</div>
+                            <div class="dl-area">
+                                <dl class="dl-mr">
+                                    <dt><a target="_blank" href="http://www.cecb2b.com/shop/_nic_206069_1089446.html">北京金裔凯鑫电子科技中心</a></dt>
+                                    <dd>•&nbsp&nbsp车间贴装CLASS10000无尘化</dd>
+                                    <dd>•&nbsp&nbsp贯彻始终的流程工艺</dd>
+                                    <dd>•&nbsp&nbsp12条生产线全线服务</dd>
+                                </dl>
+                                <dl>
+                                    <dt><a href="http://www.cecb2b.com/shop/_nic_215355_593853.html" target="_blank">北京中奥智控公司</a></dt>
+                                    <dd>•&nbsp&nbsp先进生产线及精良检测设备</dd>
+                                    <dd>•&nbsp&nbsp承接快速样品,小批量SMT</dd>
+                                    <dd>•&nbsp&nbsp严格管理体系,确保质量</dd>
+                                </dl>
+                            </div>
+                            <div class="test-list">
+                                <!--#include virtual="./static/news_section/296.html"-->
+                            </div>
+                        </div>
+                        <div class="sample-test-r">
+                            <div class="test-hd">集成组装</div>
+                            <div class="dl-area">
+                                <dl class="dl-mr">
+                                    <dt><a href="http://www.81778288.com/" target="_blank">北京创元成业科技有限公司</dt>
+                                    <dd>•&nbsp&nbsp为企业提供一站式集成组装服务</dd>
+                                    <dd>•&nbsp&nbsp先进的供应链管理体系</dd>
+                                    <dd>•&nbsp&nbsp提供端到端的解决方案</dd>
+                                </dl>
+                                <dl>
+                                    <dt><a href="http://www.bjtle.com" target="_blank">北京市天麓电子有限公司</a></dt>
+                                    <dd>•&nbsp&nbsp产品制造及器件贸易服务</dd>
+                                    <dd>•&nbsp&nbsp产品组装、测试、检测</dd>
+                                    <dd>•&nbsp&nbsp插件、波峰焊、手工焊接</dd>
+                                </dl>
+                            </div>
+                            <div class="test-list">
+                                <!--#include virtual="./static/news_section/297.html"-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 广告位 -->
+           <!--  <div class="adv-1f">
+                <div class="adv-1f-1">
+                    <a href="" target="_blank"><img width="910px;" height="90px;" src="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+                </div>
+                <div class="adv-1f-2">
+                    <a href="" target="_blank"><img width="279px;" height="90px;" src="http://dfsimg1.hqewimg.com/group1/M00/00/0D/wKhk7leeSIuAdIgZAACyGV0Al_s734.jpg"></a>
+                </div>
+            </div> -->
+            <!-- 6F -->
+            <div class="floor6 floorflag" floornums="6">
+            	<div class="floor-hd">
+                    <h2>6F&nbsp供应链采购</h2></div>
+                <div class="floor-bd">
+                    <div class="floor-l-icon">
+                        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/chain.png"></div>
+                        <div class="floor-text"><span>原装正品</span><span>先行赔付</span><span>7天退换</span><span>阳光交易</span></div>
+                        <div class="floor-b">
+                            <!-- <p><a class="release-item" target="_blank" href="http://www.cecb2b.com/index-post.shtml">服务定制</a><a class="post-require" target="_blank" href="http://cectest.cecb2b.com/index-post.shtml">我要合作</a></p>-->
+                        </div> 
+                    </div>
+                
+                <div id='J_inquirySuperBuyer'>
+			        <div class="Supply-area category-menu">
+			            <div class="Supply-area-hd">
+			                <p>
+                                <span class='tab-t active'>开发板</span>
+								<span class="tab-t ">传感器</span>
+								<span class='tab-t'>无线模组</span>
+								<span class='tab-t'>IC</span>
+								<span class='tab-t'>其他</span>
+								<!-- <a class="more" target="_blank" href="http://tj.cecb2b.com/q?q=%E4%BC%A0%E6%84%9F%E5%99%A8&x=0&y=0">更多</a>
+								<a class="more" target="_blank" href="http://tj.cecb2b.com/q?q=%E5%BC%80%E5%8F%91%E6%9D%BF">更多</a>
+								<a class="more" target="_blank" href="http://s.cecb2b.com/vsearch/qnic.do?q=%E9%80%9A%E8%AE%AF%E6%A8%A1%E5%9D%97&o=20&t=0&x=38&y=11">更多</a>
+								<a class="more" target="_blank" href="http://tj.cecb2b.com/cl/99000000">更多</a> -->
+								<a class="more" target="_blank" href="http://tj.cecb2b.com/cl/10000000">更多</a>
+								
+								</p>
+								
+			            </div>
+						 <div class="tab-content active">
+			                <div class="Supply-area-bd tab-c active">
+							    <div class="Supply-area-wrap ">
+							        <ul>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_201176_5001529.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201513/zfa_201176_fa6a501ba96b9d5856ae9ff7b9831a63_.JPG"></span></a>
+							                <h3 class="title">开发板SI535X-20QFN-EVB</h3>
+							                <p class="bands">SILICON</p>
+							                <div class="price">￥1150.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_201176_5001529.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_204881_4981814.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40710465&spec=big"></span></a>
+							                <h3 class="title">厂家直销 Zigbee开发板 质量保证</h3>
+							                <p class="bands">晓网科技</p>
+							                <div class="price">￥170.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204881_4981814.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_205219_1474133.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40353834&spec=big"></span></a>
+							                <h3 class="title">GXSOPCEP2C35M672FPGA开发板</h3>
+							                <p class="bands">革新</p>
+							                <div class="price">￥7980.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_205219_1474133.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_202199_2750735.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40414125&spec=big"></span></a>
+							                <h3 class="title">DSP5509S-STUDY-KIT学习开发板C5000系列SD卡文件系统</h3>
+							                <p class="bands">电子无忧网</p>
+							                <div class="price">￥800.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_202199_2750735.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_214497_396129.html"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=20267447&spec=big"></span></a>
+							                <h3 class="title">全系列开发板</h3>
+							                <p class="bands"></p>
+							                <div class="price">￥280.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_214497_396129.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							               <a href="http://www.cecb2b.com/shop/_nic_363099_3732953.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40583487&spec=big"></span></a>
+							                <h3 class="title">STM32开发板/最小系统板(STM32F103VCT6) (排针有上和下)</h3>
+							                <p class="bands">新中发2157-聚瑞升科技</p>
+							                <div class="price">￥75.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_363099_3732953.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_201135_4265135.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40661906&spec=big"></span></a>
+							                <h3 class="title">A9智能终端开发板</h3>
+							                <p class="bands">佐臻</p>
+							                <div class="price">￥3128.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_201135_4265135.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_300493_1321511.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40445948&spec=big"></span></a>
+							                <h3 class="title">CycloneIIFPGA2c35开发板</h3>
+							                <p class="bands"></p>
+							                <div class="price">￥1500.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_300493_1321511.html" class="join-but">查看详情</a>
+							            </li>
+							        </ul>
+							    </div>
+							    <div class="btn">
+							        <a href="javascript:void(0)" class="czleftbut gray"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&lt;</i></a>
+							        <a href="javascript:void(0)" class="czrightbut"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&gt;</i></a>
+							    </div>
+							</div>
+			            </div>
+						
+						<div class="tab-content ">
+			                <div class="Supply-area-bd tab-c ">
+							    <div class="Supply-area-wrap ">
+							        <ul>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4827701.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40702098&spec=big"></span></a>
+							                <h3 class="title">半导体温度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥70.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4827701.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_305048_2224005.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/10/inventoryimg/zfa_nic_inventory/2009122/zfa_305048_181a49654636c205a1c7da41464346fa_.JPG"></span></a>
+							                <h3 class="title">智能涡轮流量传感器带显示</h3>
+							                <p class="bands">天津</p>
+							                <div class="price">￥1880.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_305048_2224005.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4632855.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/10/inventoryimg/zfa_nic_inventory/201455/zfa_38674220140529_1401340343031386742.JPG"></span></a>
+							                <h3 class="title">智能温度变送器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥300.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4632855.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_5000203.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40711816&spec=big"></span></a>
+							                <h3 class="title">装配式温度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥175.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_5000203.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_5005403.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40712149&spec=big"></span></a>
+							                <h3 class="title">铠装温度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥65.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_5005403.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4714370.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40695736&spec=big"></span></a>
+							                <h3 class="title">201S温度传感器</h3>
+							                <p class="bands">北京昆仑中大</p>
+							                <div class="price">￥69.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4714370.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4628205.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40679793&spec=big"></span></a>
+							                <h3 class="title">高温湿度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥2000.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4628205.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_5000205.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/10/inventoryimg/zfa_nic_inventory/2014123/zfa_386742_1ac27f21e8dcfd97756cd0060f918c02_.JPG"></span></a>
+							                <h3 class="title">管道温度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥180.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_5000205.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4632796.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/10/inventoryimg/zfa_nic_inventory/201494/zfa_386742_80f679f3a5a330953c285f630341a2ff_.JPG"></span></a>
+							                <h3 class="title">RS485输出温湿度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥420.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4632796.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							               <a href="http://www.cecb2b.com/shop/_nic_386742_4717268.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/10/inventoryimg/zfa_nic_inventory/201494/zfa_386742_e0a489f6b348fc1c060a9da7b9b84fb8_.JPG"></span></a>
+							                <h3 class="title">数显壁挂温湿度传感器</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥280.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4717268.html" class="join-but">查看详情</a>
+							            </li>
+							        </ul>
+							    </div>
+							    <div class="btn">
+							        <a href="javascript:void(0)" class="czleftbut gray"><i class="" style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&lt;</i></a>
+							        <a href="javascript:void(0)" class="czrightbut"><i class="" style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&gt;</i></a>
+							    </div>
+							</div>
+			            </div>
+						
+						<div class="tab-content">
+			                <div class="Supply-area-bd tab-c">
+							    <div class="Supply-area-wrap ">
+							        <ul>						
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_205576_4625837.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40679515&spec=big"></span></a>
+							                <h3 class="title">电子巡更系统</h3>
+							                <p class="bands">千目电子</p>
+							                <div class="price">￥108.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_205576_4625837.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_204559_4030359.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40619954&spec=big"></span></a>
+							                <h3 class="title">RF蓝牙模组等无线产品</h3>
+							                <p class="bands">RainSun</p>
+							                <div class="price">面议</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204559_4030359.html" class="join-but">查看详情</a>
+							            </li>							
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/_nic_308167_4642175.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40732767&spec=big"></span></a>
+							                <h3 class="title">zigbee 无线 模组</h3>
+							                <p class="bands">NXP-jennic</p>
+							                <div class="price">￥120.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_308167_4642175.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_363099_4085477.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40641393&spec=big"></span></a>
+							                <h3 class="title">ov7670FIFO摄像头模块</h3>
+							                <p class="bands">北京聚瑞升科技有限公司</p>
+							                <div class="price">￥15.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_363099_4085477.html" class="join-but">查看详情</a>
+							            </li>	
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_204881_3953329.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40612917&spec=big"></span></a>
+							                <h3 class="title">蓝牙模块WLT2405B蓝牙立</h3>
+							                <p class="bands">晓网电子</p>
+							                <div class="price">￥50.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204881_3953329.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_204881_4977561.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40707432&spec=big"></span></a>
+							                <h3 class="title">低功耗、高性能RF-CC1101PA1-433</h3>
+							                <p class="bands">433无线传输模块</p>
+							                <div class="price">￥38.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204881_4977561.html" class="join-but">查看详情</a>
+							            </li>	
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_204881_3953315.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/2012124/zfa_20488120121220_1355986306805204881.JPG"></span></a>
+							                <h3 class="title">433MHz无线模块WLT0410F串口通讯</h3>
+							                <p class="bands">WLT0410F</p>
+							                <div class="price">￥208.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204881_3953315.html" class="join-but">查看详情</a>
+							            </li>							
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_204881_4992716.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/2014122/zfa_20488120141211_1418267634843204881.JPG"></span></a>
+							                <h3 class="title">天津特供EN6000B10三相移相调节模块 品质保证</h3>
+							                <p class="bands">senxte/森思特</p>
+							                <div class="price">￥100.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204881_4992716.html" class="join-but">查看详情</a>
+							            </li>
+							        </ul>
+							    </div>
+							    <div class="btn">
+							        <a href="javascript:void(0)" class="czleftbut gray"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&lt;</i></a>
+							        <a href="javascript:void(0)" class="czrightbut"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&gt;</i></a>
+							    </div>
+							</div>
+			            </div>
+						
+						<div class="tab-content">
+			                <div class="Supply-area-bd tab-c">
+							    <div class="Supply-area-wrap ">
+							        <ul>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/AD9280ARSZ_ic_216231_169193960.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014105/zfa__216231_77e74e4871df6504a6f61bdc2520d3ef.JPG"></span></a>
+							                <h3 class="title">AD9280ARSZ</h3>
+							                <p class="bands">ADI</p>
+							                <div class="price">￥7.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/AD9280ARSZ_ic_216231_169193960.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/THS7314DR_ic_216231_169194322.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014115/zfa__216231_53f2033de350bcad5ff85e0bb2521233.JPG"></span></a>
+							                <h3 class="title">THS7314DR</h3>
+							                <p class="bands">TI</p>
+							                <div class="price">￥2.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/THS7314DR_ic_216231_169194322.html" class="join-but">查看详情</a>
+							            </li>
+										<li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/TS3USB221RSER_ic_216231_169194354.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014112/zfa__216231_3e1c29b883a3279de7fb41a65b65ec54.JPG"></span></a>
+							                <h3 class="title">TS3USB221RSER</h3>
+							                <p class="bands">TI</p>
+							                <div class="price">￥3.10</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/TS3USB221RSER_ic_216231_169194354.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/ACPL-P480-500E_ic_214299_135774895.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/201311/zfa__214299_95b73b976260dba6588894dcc9042159.JPG"></span></a>
+							                <h3 class="title">ACPL-P480-500E</h3>
+							                <p class="bands">AVAGO</p>
+							                <div class="price">￥3.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/ACPL-P480-500E_ic_214299_135774895.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/HCPL-070A-500E_ic_214299_166866451.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/201485/zfa__214299_36baf9b602f7df7ca7b1bff1e1ee57ad.JPG"></span></a>
+							                <h3 class="title">HCPL-070A-500E</h3>
+							                <p class="bands">AVAGO</p>
+							                <div class="price">￥7.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/HCPL-070A-500E_ic_214299_166866451.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/TPS74401KTWT_ic_214497_62245530.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014105/zfa__214497_d941355088ec88069ee15b7ea3648e67.JPG"></span></a>
+							                <h3 class="title">TPS74401KTWT</h3>
+							                <p class="bands">TI</p>
+							                <div class="price">￥22.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/TPS74401KTWT_ic_214497_62245530.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/ISL83072EIBZA_ic_214497_171823814.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014105/zfa__214497_41f9c7cfb1a4633945edddac92a95a76.JPG"></span></a>
+							                <h3 class="title">ISL83072EIBZA</h3>
+							                <p class="bands">INTERSIL</p>
+							                <div class="price">￥3.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/ISL83072EIBZA_ic_214497_171823814.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/TXS0108EPW_ic_214497_171823817.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014105/zfa__214497_ee7462a4d8434d9f0e1201e5850ad8f8.JPG"></span></a>
+							                <h3 class="title">TXS0108EPW</h3>
+							                <p class="bands">TI</p>
+							                <div class="price">￥5.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/TXS0108EPW_ic_214497_171823817.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);" >
+							                <a href="http://www.cecb2b.com/shop/SN65HVD251DR_ic_214497_171823822.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014105/zfa__214497_fc631822439cee212a932095e44551e8.JPG"></span></a>
+							                <h3 class="title">SN65HVD251DR</h3>
+							                <p class="bands">TI</p>
+							                <div class="price">￥6.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/SN65HVD251DR_ic_214497_171823822.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/AD8009ARZ_ic_214497_171823826.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014105/zfa__214497_b67486e9c2ec7ba8382fc4dafb79000a.JPG"></span></a>
+							                <h3 class="title">AD8009ARZ</h3>
+							                <p class="bands">ADI</p>
+							                <div class="price">￥8.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/AD8009ARZ_ic_214497_171823826.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/AD650JNZ_ic_214497_171823862.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_ic_inventory/2014111/zfa__214497_4f2c26843001f96af888b872ae35512d.JPG"></span></a>
+							                <h3 class="title">AD650JNZ</h3>
+							                <p class="bands">ADI</p>
+							                <div class="price">￥39.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/AD650JNZ_ic_214497_171823862.html" class="join-but">查看详情</a>
+							            </li>
+							        </ul>
+							    </div>
+							    <div class="btn">
+							        <a href="javascript:void(0)" class="czleftbut gray"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&lt;</i></a>
+							        <a href="javascript:void(0)" class="czrightbut"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&gt;</i></a>
+							    </div>
+							</div>
+			            </div>
+						
+						
+						
+						<div class="tab-content">
+			                <div class="Supply-area-bd tab-c">
+							    <div class="Supply-area-wrap ">
+							        <ul>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4635079.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40693049&spec=big"></span></a>
+							                <h3 class="title">不锈钢外套管-187</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥15.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4635079.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_204505_4717332.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201485/zfa_204505_cb8ae906508cc37e8b6d3e69312ee2ce_.JPG"></span></a>
+							                <h3 class="title">南士 镀金 201-203 2*40P 80PIN 间距2.54MM 双排直针</h3>
+							                <p class="bands">南士</p>
+							                <div class="price">￥2.20</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204505_4717332.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_204505_4717330.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201485/zfa_204505_8005082177dc97d4ba1bbeed4326154f_.JPG"></span></a>
+							                <h3 class="title">南士 DB9公头 DB9针 镀金 RS232串口 COM口接头 传统型 焊线式 白胶</h3>
+							                <p class="bands">南士</p>
+							                <div class="price">￥1.70</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_204505_4717330.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_392873_4810837.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201494/zfa_392873_02660df1b0b6d2dbbe708069cd9426b7_.JPG"></span></a>
+							                <h3 class="title">魏德米勒SAK系列端子</h3>
+							                <p class="bands">魏德米勒</p>
+							                <div class="price">￥3.60</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_392873_4810837.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_392873_4812644.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201495/zfa_392873_03213a25b32375efc6f025abc0d000c4_.PNG"></span></a>
+							                <h3 class="title">魏德米勒 Z 接地端子</h3>
+							                <p class="bands">魏德米勒</p>
+							                <div class="price">￥9.50</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_392873_4812644.html" class="join-but">查看详情</a>
+							            </li>						
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_344123_4860364.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201542/zfa_344123_07e6a264ddacb5d653d114cd535959b7_.JPG"></span></a>
+							                <h3 class="title">多圈电位器</h3>
+							                <p class="bands">国盛</p>
+							                <div class="price">￥0.60</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_344123_4860364.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_203974_4860312.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201593/zfa_203974_5484965610b6e675f186e129a5363241_.JPG"></span></a>
+							                <h3 class="title">1.27间距拨码开关</h3>
+							                <p class="bands">美国CTS</p>
+							                <div class="price">￥2.30</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_203974_4860312.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_386742_4644497.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://www.cecb2b.com/ShowImage?picid=40693044&spec=big"></span></a>
+							                <h3 class="title">液位开关</h3>
+							                <p class="bands">昆仑中大</p>
+							                <div class="price">￥165.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_386742_4644497.html" class="join-but">查看详情</a>
+							            </li>
+							            <li>
+							                <a href="javascript:void(0);">
+							                <a href="http://www.cecb2b.com/shop/_nic_392873_4803718.html" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/resimg/30/inventoryimg/zfa_nic_inventory/201494/zfa_392873_0e85658b7304863266bec7eeadf53a7f_.PNG"></span></a>
+							                <h3 class="title">欧姆龙微动开关</h3>
+							                <p class="bands">欧姆龙</p>
+							                <div class="price">￥4.00</div>
+							                </a>
+							                <a target="_blank" href="http://www.cecb2b.com/shop/_nic_392873_4803718.html" class="join-but">查看详情</a>
+							            </li>
+							        </ul>
+							    </div>
+							    <div class="btn">
+							        <a href="javascript:void(0)" class="czleftbut gray"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&lt;</i></a>
+							        <a href="javascript:void(0)" class="czrightbut"><i style="font-size: 22px;color: #fff;line-height: 96px;font-family: simsun;font-weight: 400;font-style: normal;">&gt;</i></a>
+							    </div>
+							</div>
+			            </div>
+			        </div>
+				</div>
+              </div>  
+                
+            </div>
+            <!-- 广告位 -->
+            <!-- <div class="adv-1f">
+                <div class="adv-1f-1">
+                    <a href="" target="_blank"><img width="910px;" height="90px;" original="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+                </div>
+                <div class="adv-1f-2">
+                    <a href="" target="_blank"><img width="279px;" height="90px;" src="http://dfsimg1.hqewimg.com/group1/M00/00/0D/wKhk7leeSIuAdIgZAACyGV0Al_s734.jpg"></a>
+                </div>
+            </div> -->
+            <!-- 7F -->
+            <div class="floor7 floorflag" floornums="7">
+                <div class="floor-hd">
+                    <h2>7F&nbsp会展服务</h2></div>
+                <div class="floor-bd">
+                    <div class="floor-l-icon">
+                        <div class="floor-bg"><img src="http://images.cecb2b.com/images/common-service/exhibit.png"></div>
+                        <div class="floor-text"><span>新品发布</span><span>新技术发布</span><span>行业会议</span><span>项目路演</span><span>行业论坛</span><span>行业峰会</span></div>
+                        <!-- <div class="floor-b"><p><a class="release-item" href="">服务定制</a><a class="post-require" href="">我要合作</a></p></div> -->
+                    </div>
+                    <div class="floor-m-silder">
+                        <div class="silder-area">
+                            <div class="silder-list">
+                                <div class="silder-l-img"><a href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=10" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/images/common-service/floor7-1.jpg"></span></a></div>
+                                <div class="silder-r-con">
+                                    <h2><a target="_blank" href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=10"> 第十四届中国国际半导体博览会暨高峰论坛</a></h2>
+                                    <p>中国国际半导体博览会暨高峰论坛——IC China，经过十余年的发展，已成为国内外具有一定影响力的半导体行业盛会。ICChina为从事集成电路设计、芯片加工、封装测试、半导体专用设备、半导体专用材料、半导体分立器件的海内外厂商及企事业单位搭建了一个展示最新成果，打造产品品牌的平台。聚焦产业政策解读，涵盖“体制创新、模式创新、技术创新”等内容的高峰论坛和专题研讨会，在业界有着极佳的口碑和知名度。</p>
+                                    <p class="time">2016年11月8-10日  上海新国际博览中心W5馆</p>
+                                    <p class="stand-but"><a target="_blank" href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=10">我要参展</a><a target="_blank" href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=10">我要观展</a></p>
+                                </div>
+                            </div>
+                            <div class="silder-list silder-list-t">
+                                <div class="silder-l-img"><a href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=11" target="_blank"><span class="c_pic"><img class="pImg" original="http://images.cecb2b.com/images/common-service/floor7-2.jpg"></span></a></div>
+                                <div class="silder-r-con">
+                                    <h2><a target="_blank" href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=11">中国（深圳）国际无人系统成果交易展</a></h2>
+                                    <p>为贯彻落实国务院印发的[2016]38号文件，国家发展改革委、科技部、工业和信息化部、中央网信办印发的[2016]1078号文件中针对人工智能技术在智能无人系统应用工程领域、智能汽车研发与产业化工程领域中的融合应用。尖兵之翼，作为中国无人系统产业风向标，旨在着力加强产业链协同和产业生态培育，提升公共创新平台服务能力。着力加强智能无人系统应用创新，引导产业集聚发展，促进无人系统在国民经济社会重点领域.</p>
+                                    <p class="time">2016年11月16-20日  </p>
+                                    <p class="stand-but"><a target="_blank" href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=11">我要参展</a><a target="_blank" href="http://exhib.cecb2b.com/index.php?r=exhib%2Fpreview&id=11">我要观展</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="floor-r-news">
+                        <!-- <div class="newbuy-hd">
+                                <h3>需求列表</h3>
+                                <a class="more" href="">更多</a>
+                            </div> -->
+                        <div class="newbuy-bd">
+                            <!--#include virtual="./static/news_section/298.html"-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 底部广告位 -->
+           <!--  <div class="adv-foot">
+                <a href="" target="_blank"><img width="1200px" height="90px" src="http://dfsimg3.hqewimg.com/group1/M00/00/0E/wKhk7lerZuSAdoWGAABk-QcF9Ys076.gif"></a>
+            </div> -->
+            <!-- footer -->
+            <div class="footer-link">
+                <dl>
+                    <dt>友情链接</dt>
+                    <dd>
+                        <a href="http://www.elecfans.com" target="_blank">电子发烧友</a>
+                        <a href="http://www.21ic.com" target="_blank">21IC中国电子网</a>
+                        <a href="http://www.eepw.com.cn" target="_blank">电子产品世界</a>
+                        <a href="http://www.hi1718.com" target="_blank">仪器交易网</a>
+                        <a href="http://www.dzsc.com/" target="_blank">电子市场网</a>
+                        <a href="http://www.c-ps.net" target="_blank">中国测控网</a>
+                        <a href="http://www.gkzhan.com/" target="_blank">工控中国</a>
+                        <a href="http://news.bjx.com.cn/" target="_blank">北极星电力新闻网</a>
+                        <a href="http://www.hqew.com/" target="_blank">华强电子网</a>
+                        <a href="http://www.skxox.com/" target="_blank">云同盟</a>
+                        <a href="http://price.ea3w.com/" target="_blank">万维家电产品</a>
+                        <a href="http://www.cngold.com.cn/" target="_blank">中金网</a>
+                        <a href="http://www.ca800.com" target="_blank">中国自动化网</a>
+                        <a href="http://www.yi7.com " target="_blank">仪器交易网</a>
+                        <a href="http://www.51dzw.com/" target="_blank">51电子网</a>
+                        <a href="http://www.ybzhan.cn/" target="_blank">中国仪表网</a>
+                        <a href="http://www.114ic.com/" target="_blank">114ic电子交易</a>
+                        <a href="http://www.ck365.cn/" target="_blank">中国测控网</a>
+                        <a href="http://www.cnledw.com/" target="_blank">中国LED网</a>
+                        <a href="http://ometal.com/" target="_blank">上海有色金属网</a>
+                        <a href="http://www.liuti.cn/" target="_blank">流体</a>
+                        <a href="http://www.ic37.com/" target="_blank">中国IC网</a>
+                        <a href="http://www.52solution.com/" target="_blank">我爱方案网</a>
+                        <a href="http://www.eechina.com/" target="_blank">电子工程网</a>
+                        <a href="http://www.any2000.com/" target="_blank">万有引力网</a>
+                        <a href="http://www.ynshangji.com/" target="_blank">商机网</a>
+                        <a href="http://www.becc.org.cn " target="_blank">北京电子商会</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="foot-about">
+                <div class="div_list">
+                    <h3>关于我们</h3>
+                    <ul>
+                        <!-- <li><a href="" target="_blank">关于中发智造</a></li> -->
+                        <li><a href="http://www.cecb2b.com/help/about_contact.shtml" target="_blank">联系我们</a></li>
+                        <li><a href="http://www.cecb2b.com/help/about_job.shtml" target="_blank">加入我们</a></li>
+                    </ul>
+                </div>
+                <div class="div_list">
+                    <h3>新手指南</h3>
+                    <ul>
+                        <li><a href="http://www.cecb2b.com/register/registe.jsp" target="_blank">免费注册</a></li>
+                        <li><a href="http://www.cecb2b.com/help/buy_process.shtml" target="_blank">买家入门</a></li>
+                        <li><a href="http://www.cecb2b.com/help/supply_process.shtml" target="_blank">卖家入门</a></li>
+                        <li><a href="http://www.cecb2b.com/help/help_index.shtml" target="_blank">帮助中心</a></li>
+                    </ul>
+                </div>
+                <div class="div_list">
+                    <h3>交易保障</h3>
+                    <ul>
+                        <li><a href="http://www.cecb2b.com/zt/etousu.shtml" target="_blank">e投诉</a></li>
+                        <li><a href="http://www.cecb2b.com/help/baoguangtai.shtml" target="_blank">曝光台</a></li>
+                        <li><a href="http://www.cecb2b.com/zt/edanbao.shtml" target="_blank">e担保</a></li>
+                    </ul>
+                </div>
+                <div class="div_list div_list1">
+                    <h3>生态服务</h3>
+                    <ul>
+                        <li><a href="http://bbs.cecb2b.com/" target="_blank">工程师社群</a></li>
+                        <li><a href="http://www.cecb2b.com/solution/index.php?r=tech" target="_blank">科技成果</a></li>
+                        <li><a href="http://patent.cecb2b.com/" target="_blank">知识产权专利</a></li>
+                        <li><a href="http://www.cecb2b.com/solution/" target="_blank">解决方案</a></li>
+                        <li><a href="http://exhib.cecb2b.com/" target="_blank">会展服务</a></li>
+                        <li><a href="http://www.cecb2b.com/finance/" target="_blank">金融服务</a></li>
+                    </ul>
+                </div>
+                <div class="div_list div_wx">
+                    <img src="http://images.cecb2b.com/images/common-service/dt.gif">
+                    <!-- <div class="div-list-l"><img src="http://images.cecb2b.com/images/common-service/wx-ce.jpg"></div>
+                    <div><img src="http://images.cecb2b.com/images/common-service/wx-ph.jpg"></div> -->
+                </div>
+            </div>
+        </div>
+        <div class="foot-add">
+            <div class="container">
+                <p><a href="http://www.cecb2b.com/help/about_job.shtml" target="_blank">招聘信息</a><a target="_blank" href="http://www.cecb2b.com/help/member_service.shtml">会员服务</a><a target="_blank" href="http://www.cecb2b.com/help/ad_service.shtml">广告服务</a><a target="_blank" href="http://www.cecb2b.com/help/help_index.shtml">帮助中心</a><a target="_blank" href="http://www.cecb2b.com/sitemap.shtml">网站地图</a></p>
+                <p class="copy" style=" position:relative;"> ©2016 中发智造 &nbsp;京公网安备 11010802020315号 &nbsp;京ICP证041622号-2 <img width="18" height="22" alt="" src="http://images.cecb2b.com/images/common/icon_footer.gif"> 版权所有
+                    <br>
+                </p>
+            </div>
+        </div>
+        <!-- 左悬浮 -->
+       <!--  <div id="elevator" class="elevator hide">
+            <ul>
+                <li class="current" floornums="1">
+                    解决方案</li>
+                <li floornums="2">
+                    科技成果</li>
+                <li floornums="3">
+                    知识产权专利</li>
+                <li floornums="4">
+                    样品试制</li>
+                <li floornums="5">
+                    生产加工</li>
+                <li floornums="6">
+                    供应链采购</li>
+                <li floornums="7">
+                    会展服务</li>
+            </ul>
+        </div> -->
+        <div class="elevator hide" id="elevator" style="">
+            <ul>
+                <li class="li_1 " floornums="1">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s1">1F</span>
+                    </a>
+                    <a class="etitle" href="javascript:void(0)">方案</a>
+                </li>
+                <li class="li_2 current" floornums="2">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s2">2F</span>
+                    </a>
+                     <a class="etitle" href="javascript:void(0)">成果</a>
+                </li>
+                <li class="li_3" floornums="3">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s3">3F</span>
+                    </a>
+                     <a class="etitle" href="javascript:void(0)">专利</a>
+                </li>
+                <li class="li_4" floornums="4">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s4">4F</span>
+                    </a>
+                    <a class="etitle" href="javascript:void(0)">样品</a>
+                </li>
+                <li class="li_5" floornums="5">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s5">5F</span>
+                    </a>
+                      <a class="etitle" href="javascript:void(0)">加工</a>
+                </li>
+                <li class="li_6" floornums="6">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s6">6F</span>
+                    </a>
+                     <a class="etitle" href="javascript:void(0)">采购</a>
+                </li>
+                <li class="li_7" floornums="7">
+                    <a href="javascript:void(0)" class="icon_a">
+                        <span class="icon_s icon_s7">7F</span>
+                    </a>
+                     <a class="etitle" href="javascript:void(0)">会展</a>
+                </li>
+            </ul>            
+        </div>
+        <!-- 右下角弹窗 -->
+<!--         <div id="webim">
+            <dl class="dlstyle">
+                <dt class="dtstyle">
+                    <span id="webimclosebutton" title="点击关闭">关闭</span></dt>
+            </dl>
+            <dl>
+                <dd>
+                    <a href="http://www.itcast.cn/subject/summer/index.shtml?a201" target="_blank" id="webim_link"><img src="http://dfsimg2.hqewimg.com/group1/M00/00/0E/wKhk7letJliAbEqfAABG4ArKTQI540.jpg" style="height: 188px; width: 280px"></a>
+                </dd>
+            </dl>
+        </div> -->
+        <!-- 右悬浮 -->
+        <div class="zx">
+            <ul>
+                <li class="li_1">
+                    <a  href="javascript:;" id="BizQQWPA">
+                        <span class="icon_s">&nbsp;</span>
+                    </a>
+                    <div class="zx-text hide">
+                        <i class="arrow_out"></i>
+                        <i class="arrow_in"></i>在线客服
+                    </div>
+                </li>
+                <li class="li_2">
+                     <a href="http://wj.qq.com/s/750261/0d97" target="_blank">
+                        <span class="icon_s">&nbsp;</span>
+                    </a>
+                    <div class="zx-text hide">
+                        <i class="arrow_out"></i>
+                        <i class="arrow_in"></i>用户反馈
+                    </div>
+                </li>
+                <li class="li_3 " id="back" style="visibility: hidden;">
+                     <a href="javascript:void(0);">
+                        <span class="icon_s">&nbsp;</span>
+                    </a>
+                </li>
+            </ul> 
+        </div>
+        <!--#include virtual="/stat/www.zfa.cn.html"-->
+        <script type="text/javascript" src="http://images.cecb2b.com/js/search/qnic_seo.js"></script>
+        <script type="text/javascript" src="http://images.cecb2b.com/js/common-service/Jquery.LazyLoad_nic.js"></script>
+        <script type="text/javascript" src="http://images.cecb2b.com/js/common_new/G_function.js"></script>
+    	<script type="text/javascript" src="http://images.cecb2b.com/js/common-service/base.js"></script>
+        <script type="text/javascript" src="http://images.cecb2b.com/js/common-service/zx.js"></script>
+        <script type="text/javascript">
+      $(function(){  
+           $(".pImg").lazyload({
+              placeholder : "http://images.cecb2b.com/images/common-service/loading_117_99.gif",
+              effect : "fadeIn"
+             }); 
+     });
+        </script>
+        <script>
+         BizQQWPA.addCustom({aty: '1', a: '1001', nameAccount: 4006265285, selector: 'BizQQWPA'});
+         var header_data = header_data ||[];
+		$("#shopcartnums").text(header_data["cartNum"])
+		if(header_data["isLogin"]==1){
+			var htmls='您好，<i>'+header_data["userName"]+'</i>&nbsp;&nbsp;[<a href="http://www.cecb2b.com/member/logout.jsp" target="_blank">退出</a>]';
+			$("#nologin").html(htmls);
+			if(header_data["role"] == 3){
+				$("#buyuser").show();
+			}
+			if(header_data["role"] == 4){
+				$("#selluser").show();	
+			}
+			if(header_data["role"] == 5){
+				$("#selluser").show();
+				$("#ordermanage").show();
+			}
+		}
+</script>
+<script type="text/javascript" src="http://images.cecb2b.com/js/common_new/index2014.js"></script>      
+<script type="text/javascript" src="http://www.cecb2b.com/header_data_load.do"></script>
+</body>
+</html>
